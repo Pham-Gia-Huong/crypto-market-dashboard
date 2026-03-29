@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "Bảng điều khiển thị trường crypto"
+  },
+  "market": {
+    "subtitle": "Cặp USDT spot — mini ticker realtime từ Binance",
+    "live": "Trực tiếp",
+    "wsOffline": "WS ngắt",
+    "cardTitle": "Thị trường",
+    "cardDescription": "Ký hiệu, giá mới nhất và % 24h. Dòng nháy xanh / đỏ khi giá đổi.",
+    "pair": "Cặp",
+    "price": "Giá",
+    "change24h": "24h %"
+  },
+  "search": {
+    "placeholder": "Tìm cặp (vd: BTC, ETHUSDT)…"
+  },
+  "token": {
+    "back": "← Thị trường",
+    "candleTitle": "Nến (candlestick)",
+    "candleDescription": "Dữ liệu nến lịch sử (REST) và cập nhật từ WebSocket kline.",
+    "unknownPair": "Không có cặp: {{symbol}}",
+    "backToMarkets": "Về thị trường"
+  },
+  "lang": {
+    "label": "Ngôn ngữ",
+    "en": "English",
+    "vi": "Tiếng Việt"
+  },
+  "theme": {
+    "useLight": "Giao diện sáng",
+    "useDark": "Giao diện tối"
+  },
+  "orderBook": {
+    "title": "Sổ lệnh (depth)",
+    "description": "Giá mua / bán — cập nhật gom theo thời gian để mượt.",
+    "bids": "Mua",
+    "asks": "Bán",
+    "connecting": "Đang kết nối…"
+  },
+  "trades": {
+    "title": "Giao dịch gần đây",
+    "description": "Luồng giao dịch (B = bên mua chủ động, S = bên bán chủ động).",
+    "price": "Giá",
+    "qty": "KL",
+    "time": "Giờ"
+  },
+  "settings": {
+    "avatarHint": "Đổi ảnh đại diện (lưu trên trình duyệt này)",
+    "clearAvatar": "Xóa ảnh"
+  }
+}

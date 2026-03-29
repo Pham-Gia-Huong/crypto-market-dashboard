@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "Crypto Market Dashboard"
+  },
+  "market": {
+    "subtitle": "USDT spot pairs — live mini tickers from Binance",
+    "live": "Live",
+    "wsOffline": "WS offline",
+    "cardTitle": "Markets",
+    "cardDescription": "Symbol, last price, and 24h change. Rows flash green / red briefly on price moves.",
+    "pair": "Pair",
+    "price": "Price",
+    "change24h": "24h %"
+  },
+  "search": {
+    "placeholder": "Search pair (e.g. BTC, ETHUSDT)…"
+  },
+  "token": {
+    "back": "← Markets",
+    "candleTitle": "Candlestick",
+    "candleDescription": "Historical klines (REST) with live updates (WebSocket kline stream).",
+    "unknownPair": "Unknown pair: {{symbol}}",
+    "backToMarkets": "Back to markets"
+  },
+  "lang": {
+    "label": "Language",
+    "en": "English",
+    "vi": "Tiếng Việt"
+  },
+  "theme": {
+    "useLight": "Use light theme",
+    "useDark": "Use dark theme"
+  },
+  "orderBook": {
+    "title": "Order book (depth)",
+    "description": "Top bids and asks — throttled updates for performance.",
+    "bids": "Bids",
+    "asks": "Asks",
+    "connecting": "Connecting…"
+  },
+  "trades": {
+    "title": "Recent trades",
+    "description": "Live trades stream (B = buy taker, S = sell taker).",
+    "price": "Price",
+    "qty": "Qty",
+    "time": "Time"
+  },
+  "settings": {
+    "avatarHint": "Change profile picture (stored in this browser)",
+    "clearAvatar": "Remove"
+  }
+}
